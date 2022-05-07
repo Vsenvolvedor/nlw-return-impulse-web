@@ -6,6 +6,10 @@
   <a href="#pre-requisitos">Ver o projeto</a>
 </h3>
 
+<hr/>
+<img align='center' src='./github/feedbackgif.gif'/>
+<hr/>
+
 # Tecnologias
 Para a construção do projeto utilizei as seguintes tecnologias:
   <ul> 
